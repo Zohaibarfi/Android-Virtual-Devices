@@ -1,5 +1,5 @@
 # Android-Virtual-Devices
-This repository contains a project developed on an Android Virtual Device (AVD), focusing on automation of different tasks using pyhthon scripts.
+This repository contains a project developed on an Android Virtual Device (AVD), focusing on automation of different tasks using python scripts.
 
 # Environment
 This project was developed and tested on macOS.
