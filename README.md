@@ -1,5 +1,5 @@
 # Android-Virtual-Devices
-This repository contains a project developed on an Android Virtual Device (AVD), focusing on automation of different tasks using pyhthon scripts and network traffic analysis using Python scripts and Mitmproxy.
+This repository contains a project developed on an Android Virtual Device (AVD), focusing on automation of different tasks using pyhthon scripts.
 
 # Environment
 This project was developed and tested on macOS.
