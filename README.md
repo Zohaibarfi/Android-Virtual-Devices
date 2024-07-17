@@ -47,16 +47,19 @@ Firstly you need an active Android Virual Device. Then you can run each python f
 1. For Auto-Installing Apps - python3 Auto-Installing Apps.py
 2. For Granting Permissions - python3 Granting Permissions.py
 3. For Telephony Operations - python3 Call.py
+   
                             - python3 Call Record.py
+   
                             - python3 Call Forward.py
-4. For Messaging - python3 Send SMS.py
+   
+5. For Messaging - python3 Send SMS.py
                  - python3 Receive SMS.py
-5. For Accessibility Functions - python3 Touch Stimulate.py
-6. For File Operations - python3 Save files to Document folder.py
+6. For Accessibility Functions - python3 Touch Stimulate.py
+7. For File Operations - python3 Save files to Document folder.py
                        - python3 Save files to Download folder.py
-7. For Location Spoofing - python3 Location.py
-8. For Contact Management - python3 Save Contact.py
-9. For Browser Data - python3 Create Cookies.py
+8. For Location Spoofing - python3 Location.py
+9. For Contact Management - python3 Save Contact.py
+10. For Browser Data - python3 Create Cookies.py
                     - python3 Create History.py
-10. For Clipboard Operations - python3 Clipboard.py
-11. For Integrated code of all above process - Integrated Code.py
+11. For Clipboard Operations - python3 Clipboard.py
+12. For Integrated code of all above process - Integrated Code.py
