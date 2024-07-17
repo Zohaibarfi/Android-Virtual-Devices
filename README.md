@@ -47,9 +47,7 @@ Firstly you need an active Android Virual Device. Then you can run each python f
 1. For Auto-Installing Apps - python3 Auto-Installing Apps.py
 2. For Granting Permissions - python3 Granting Permissions.py
 3. For Telephony Operations - python3 Call.py
-   
                             - python3 Call Record.py
-   
                             - python3 Call Forward.py
    
 5. For Messaging - python3 Send SMS.py
